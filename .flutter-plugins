@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/joaoj/.pub-cache/hosted/pub.dev/firebase_auth-5.1.4/
+firebase_auth_web=/Users/joaoj/.pub-cache/hosted/pub.dev/firebase_auth_web-5.12.5/
+firebase_core=/Users/joaoj/.pub-cache/hosted/pub.dev/firebase_core-3.3.0/
+firebase_core_web=/Users/joaoj/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.4/
+firebase_database=/Users/joaoj/.pub-cache/hosted/pub.dev/firebase_database-11.0.4/
+firebase_database_web=/Users/joaoj/.pub-cache/hosted/pub.dev/firebase_database_web-0.2.5+12/
+flutter_plugin_android_lifecycle=/Users/joaoj/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.22/
+geolocator=/Users/joaoj/.pub-cache/hosted/pub.dev/geolocator-7.7.1/
+geolocator_android=/Users/joaoj/.pub-cache/hosted/pub.dev/geolocator_android-2.1.0/
+geolocator_apple=/Users/joaoj/.pub-cache/hosted/pub.dev/geolocator_apple-1.2.2/
+geolocator_web=/Users/joaoj/.pub-cache/hosted/pub.dev/geolocator_web-2.0.6/
+google_maps_flutter=/Users/joaoj/.pub-cache/hosted/pub.dev/google_maps_flutter-2.9.0/
+google_maps_flutter_android=/Users/joaoj/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.14.4/
+google_maps_flutter_ios=/Users/joaoj/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.13.0/
+google_maps_flutter_web=/Users/joaoj/.pub-cache/hosted/pub.dev/google_maps_flutter_web-0.5.10/
